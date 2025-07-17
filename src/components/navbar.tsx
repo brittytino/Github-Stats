@@ -24,11 +24,11 @@ export function GithubIcon(props: SVGProps<SVGSVGElement>) {
 export default function Navbar() {
   return (
     <nav className="z-10 fixed left-0 top-0 right-0 w-full mx-auto container mt-10 items-center justify-between font-mono text-xs flex">
-      <Link href="/">github-stats.omsimos.com</Link>
+      <Link href="/">github-stats.tinobritty.in</Link>
       <div className="space-x-1">
         <Button asChild variant="outline" size="icon">
           <a
-            href="https://github.com/omsimos/github-stats"
+            href="https://github.com/brittytino/github-stats"
             target="_blank"
             rel="noopener noreferrer"
           >

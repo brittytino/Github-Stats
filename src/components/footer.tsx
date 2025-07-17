@@ -15,11 +15,11 @@ export default function Footer() {
           <p className="text-center text-muted-foreground sm:text-sm text-xs">
             &copy; 2025{" "}
             <a
-              href="https://github.com/omsimos"
+              href="https://github.com/brittytino"
               target="_blank"
               rel="noopener noreferrer"
             >
-              OMSIMOS
+              Tino Britty
             </a>{" "}
             · MIT License
           </p>
@@ -32,14 +32,14 @@ export default function Footer() {
             </Avatar>
             <div className="space-y-3">
               <div className="space-y-1">
-                <h4 className="text-sm font-semibold">@Omsimos</h4>
+                <h4 className="text-sm font-semibold">@brittytino</h4>
                 <p className="text-sm text-muted-foreground">
                   A community-driven open source developer collective.
                 </p>
               </div>
               <Button asChild variant="outline">
                 <a
-                  href="https://github.com/omsimos"
+                  href="https://github.com/britttytino/github-stats"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-xs"

@@ -96,7 +96,7 @@ export function GhStatsForm() {
               <FormItem className="w-full">
                 <FormLabel>GitHub Username</FormLabel>
                 <FormControl>
-                  <Input placeholder="omsimos" {...field} />
+                  <Input placeholder="Tino Britty" {...field} />
                 </FormControl>
                 {/* <FormMessage /> */}
               </FormItem>
